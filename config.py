@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID", 27353035))
-API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
-BOT_TOKEN = getenv("BOT_TOKEN", None)
-OWNER_ID = int(getenv("OWNER_ID", 5350929381))
-MONGO_URL = getenv("MONGO_URL", None)
-SUPPORT_GRP = getenv("SUPPORT_GRP", "Nexa_Verse")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "DadEyeBotz")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "Dev_Arora_0981")
+API_ID = int(getenv("API_ID", 20515794))
+API_HASH = getenv("API_HASH", "da128bd223a333f5bde8dc1359db4609")
+BOT_TOKEN = getenv("BOT_TOKEN", 6815420841:AAF1O9Vtfo4QkPzYv6MrHl3_vrl6GzjWkTc)
+OWNER_ID = int(getenv("OWNER_ID", 6231550362))
+MONGO_URL = getenv("MONGO_URL", mongodb+srv://synaxxkhushi:synaxherebaby@cluster0.vqzfrg0.mongodb.net/?retryWrites=true&w=majority)
+SUPPORT_GRP = getenv("SUPPORT_GRP", "synaxchatgroup")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "synaxnetwork")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "coder_s4nax")
 
 # Random Start Images
 IMG = [
